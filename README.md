@@ -2,8 +2,10 @@
 This bot Only Just For Fun Writed ! And Example For more ...
 
 # For Install Pakage ... Enter Command :
-1. python-telegram-bot
-2. pytse_Client
+1. pip install python-telegram-bot
+2. pip install pytse_Client
+
+# Feature :
 
 * Easy To Use 
 * Enter Your Token To --------------> Token Here !
