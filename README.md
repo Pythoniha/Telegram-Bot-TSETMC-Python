@@ -1,4 +1,11 @@
-# Telegram-Bot-TSETMC-Python-
+# Telegram-Bot-TSETMC-Python
+This bot Only Just For Fun Writed ! And Example For more ...
+
+* Easy To Use 
+* Enter Your Token To --------------> Token Here !
+* For Recive Token Go To @Botfather in telegram
+* AI Bot Recive MesssageHandler ---> No CommandHandler OR inlinKeyboardMarkup
+
 # version 0.0.0.1 beta
 
 - [x] Pandas
