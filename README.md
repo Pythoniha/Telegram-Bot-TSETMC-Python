@@ -1,6 +1,10 @@
 # Telegram-Bot-TSETMC-Python
 This bot Only Just For Fun Writed ! And Example For more ...
 
+# For Install Pakage ... Enter Command :
+1- python-telegram-bot
+2- pytse_Client
+
 * Easy To Use 
 * Enter Your Token To --------------> Token Here !
 * For Recive Token Go To @Botfather in telegram
