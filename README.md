@@ -22,7 +22,7 @@ This bot Only Just For Fun Writed ! And Example For more ...
 
 TSETMC Python Telegram Bot For Recive Bors IRAN DATA in Telgram Bot ( Free )(Source )
 
-
+# Screen.Shut
 ![Image of Yaktocat](https://github.com/Pythoniha/Telegram-Bot-TSETMC-Python-/blob/master/bors_telegram.jpg)
 
 - [ ] beta version ! 
